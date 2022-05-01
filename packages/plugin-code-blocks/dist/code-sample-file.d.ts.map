@@ -1,0 +1,1 @@
+{"version":3,"file":"code-sample-file.d.ts","sourceRoot":"","sources":["../src/code-sample-file.ts"],"names":[],"mappings":"AAKA,eAAO,MAAM,kBAAkB,gBAAgB,CAAC;AAGhD,MAAM,WAAW,WAAW;IAC3B,MAAM,EAAE,MAAM,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,MAAM,CAAC;IACb,SAAS,EAAE,MAAM,CAAC;IAClB,OAAO,EAAE,MAAM,CAAC;CAChB;AAmED,eAAO,MAAM,cAAc,SAAW,MAAM,KAAI,IAAI,MAAM,EAAE,WAAW,CA2BtE,CAAC"}
